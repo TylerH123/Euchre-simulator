@@ -1,1 +1,1 @@
-# p3-euchre
+# Euchre Simulator
